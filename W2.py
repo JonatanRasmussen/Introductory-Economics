@@ -190,7 +190,7 @@ print(f"w2ex3b: The consumer surplus when PX = $45 is: ${w2ex3b(const_coeff, coe
 print(f"w2ex3d: {w2ex3d()}")
 print()
 
-#%% w2ex4
+#%% w2ex4 Determine the equilibrium price and quantity
 def w2ex4a(coeff_QD, coeff_PX_QD, coeff_QS, coeff_PX_QS):
     """
     Determine the equilibrium price and quantity based on the demand and supply equations.
